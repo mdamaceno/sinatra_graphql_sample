@@ -1,0 +1,2 @@
+module SinatraGraphqlSample
+end
